@@ -1,6 +1,6 @@
-[![Español](https://img.shields.io/badge/Español-%F0%9F%98%8E-red)](https://github.com/Jamf05/Jamf05/blob/main/README_ES.md) [![Inglés](https://img.shields.io/badge/Inglés-%F0%9F%98%89-red)](https://github.com/Jamf05/Jamf05/tree/main#readme)
+[![Español](https://img.shields.io/badge/Español-%F0%9F%98%8E-red)](https://github.com/Jamf05/Jamf05/blob/main/README_es.md) [![Inglés](https://img.shields.io/badge/Inglés-%F0%9F%98%89-red)](https://github.com/Jamf05/Jamf05/tree/main#readme)
 
-# ![banner](https://res.cloudinary.com/jamf05/image/upload/v1667266092/sample/xjsvdsndxxoj1t8llmpv.png)
+# [![banner](https://res.cloudinary.com/jamf05/image/upload/v1667266092/sample/xjsvdsndxxoj1t8llmpv.png)]((https://www.linkedin.com/in/jorgemogotocoro/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgemogotocoro/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MogotocoroJorge) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgemogotocoro05@outlook.es)
 
