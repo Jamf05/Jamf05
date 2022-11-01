@@ -14,7 +14,7 @@
 
 ## 👩🏼‍💻 Work Experience
 
-**Mobile Developer** @ [Leeche CO S.A.S](https://www.linkedin.com/company/leeche/mycompany/) _(Jan. 2022 - Present)_ <br>
+**Mobile Developer** @ [Leeche CO S.A.S](https://www.linkedin.com/company/leeche/) _(Jan. 2022 - Present)_ <br>
   - Leader of mobile development for the mobile application ecosystem.
   - I collaborated in the design of the architecture of mobile projects following the principles of clean architecture.
   - I am currently in charge of the development, review, integration and deployment of new features developed by the mobile developer team.
