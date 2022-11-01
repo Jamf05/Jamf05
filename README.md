@@ -1,4 +1,4 @@
-[![Spanish](https://img.shields.io/badge/Spanish-%F0%9F%98%8E-red)](https://github.com/Jamf05/Jamf05/tree/main#readme) ![English](https://img.shields.io/badge/English-%F0%9F%98%89-red)
+[![Spanish](https://img.shields.io/badge/Spanish-%F0%9F%98%8E-red)](https://github.com/Jamf05/Jamf05/blob/main/README_ES.md) [![English](https://img.shields.io/badge/English-%F0%9F%98%89-red)](https://github.com/Jamf05/Jamf05/tree/main#readme)
 
 # ![banner](https://res.cloudinary.com/jamf05/image/upload/v1667266092/sample/xjsvdsndxxoj1t8llmpv.png)
 
